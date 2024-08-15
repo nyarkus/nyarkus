@@ -14,8 +14,8 @@ jobs:
         uses: athul/waka-readme@master
         with:
            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-           TIME_RANGE: all_time
-           IGNORED_LANGUAGES: Binary YAML JSON XML Markdown
+           #TIME_RANGE: all_time
+           IGNORED_LANGUAGES: Binary XML 
       - name: Update snake
         uses: Platane/snk@v3
         with:
