@@ -9,7 +9,9 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```fs
+Total Time: 16 hrs 21 mins
+
 C#                6 hrs 38 mins   ██████████░░░░░░░░░░░░░░░   40.56 %
 F#                5 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   31.59 %
 Binary            1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
