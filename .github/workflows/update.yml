@@ -13,12 +13,13 @@ jobs:
       - name: Update Wakatime
         uses: athul/waka-readme@master
         with:
+           IGNORED_LANGUAGES: Binary
            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
            #TIME_RANGE: all_time
            CODE_LANG: fs
+           SHOW_TITLE: true
            SHOW_TOTAL: true
            SHOW_TIME: true
-           IGNORED_LANGUAGES: Binary XML 
       - name: Update snake
         uses: Platane/snk@v3
         with:
