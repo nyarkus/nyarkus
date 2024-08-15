@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm nyarkus_.</h2>
+<h2 align="center">👋 Hello! I'm nyarkus_</h2>
 <p align="center">
   <img src = "https://github.com/nyarkus/nyarkus/blob/output/github-snake-dark.svg">
 </p>
