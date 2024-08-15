@@ -10,6 +10,8 @@
 <!--START_SECTION:waka-->
 
 ```fs
+From: 07 August 2024 - To: 14 August 2024
+
 Total Time: 16 hrs 21 mins
 
 C#                6 hrs 38 mins   ██████████░░░░░░░░░░░░░░░   40.56 %
