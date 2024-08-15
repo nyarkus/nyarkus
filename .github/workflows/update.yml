@@ -13,12 +13,12 @@ jobs:
       - name: Update Wakatime
         uses: athul/waka-readme@master
         with:
-           IGNORED_LANGUAGES: Binary
+           IGNORED_LANGUAGES: Binary XML JSON Bash Bash INI Batchfile Markdown "Git Config" Other
            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
            #TIME_RANGE: all_time
            CODE_LANG: fs
            #SHOW_TITLE: true
-           LANG_COUNT: 10
+           LANG_COUNT: 5
            SHOW_TOTAL: true
            SHOW_TIME: true
       - name: Update snake
