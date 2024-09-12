@@ -14,11 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 21 hrs 55 mins
+Total Time: 18 hrs 7 mins
 
-C#                15 hrs 10 mins  █████████████████░░░░░░░░   67.68 %
-F#                36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Protocol Buffer   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+C#                13 hrs 23 mins  ██████████████████░░░░░░░   72.10 %
+F#                10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
