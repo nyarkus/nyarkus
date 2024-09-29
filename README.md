@@ -14,9 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 0 secs
+Total Time: 5 hrs 7 mins
 
-No activity tracked
+C#       2 hrs 51 mins   ██████████████░░░░░░░░░░░   55.34 %
+F#       20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
 <!--END_SECTION:waka-->
