@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 9 hrs 54 mins
+Total Time: 15 hrs 24 mins
 
-C#                4 hrs 27 mins   ███████████░░░░░░░░░░░░░░   43.63 %
-C                 1 hr 40 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-XAML              1 hr 24 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
-Common Lisp       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+C#                9 hrs 20 mins   ███████████████░░░░░░░░░░   59.48 %
+C                 1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+XAML              1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Common Lisp       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
