@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 67 hrs 30 mins
+Total Time: 65 hrs 9 mins
 
-C#                34 hrs 4 mins   ████████████▓░░░░░░░░░░░░   50.39 %
-GDScript3         20 hrs 1 min    ███████▒░░░░░░░░░░░░░░░░░   29.61 %
-Python            5 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-Blender           4 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Markdown          1 hr 15 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+C#                33 hrs 39 mins  █████████████░░░░░░░░░░░░   51.66 %
+GDScript3         20 hrs 1 min    ███████▓░░░░░░░░░░░░░░░░░   30.73 %
+Python            5 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+Blender           4 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Binary            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
