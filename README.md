@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 57 hrs 35 mins
+Total Time: 54 hrs 47 mins
 
-C#                27 hrs 1 min    ███████████▓░░░░░░░░░░░░░   46.89 %
-GDScript3         19 hrs 30 mins  ████████▒░░░░░░░░░░░░░░░░   33.86 %
-Python            5 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-Blender           4 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-GitIgnore file    20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+C#                24 hrs 14 mins  ███████████░░░░░░░░░░░░░░   44.22 %
+GDScript3         19 hrs 30 mins  █████████░░░░░░░░░░░░░░░░   35.60 %
+Python            5 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Blender           4 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+GitIgnore file    20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
