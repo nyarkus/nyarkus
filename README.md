@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 22 hrs 30 mins
+Total Time: 16 hrs 58 mins
 
-C#                16 hrs 11 mins  ██████████████████░░░░░░░   71.82 %
-Python            5 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   24.29 %
-GitIgnore file    20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-textmate          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-XML               8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+C#                16 hrs 13 mins  ████████████████████████░   95.52 %
+Python            26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+GitIgnore file    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+XML               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Csproj            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
