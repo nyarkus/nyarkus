@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 16 hrs 31 mins
+Total Time: 19 hrs 36 mins
 
-C#                14 hrs 41 mins  ██████████████████████▒░░   88.86 %
-Binary            1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-XML               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-GitIgnore file    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C#               16 hrs 34 mins  ████████████████████▒░░░░   81.44 %
+Binary           2 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+Other            43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+XML              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
