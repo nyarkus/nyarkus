@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update Wakatime
-        uses: athul/waka-readme@v0.3.1
+        uses: athul/waka-readme@v0.3.0
         with:
            IGNORED_LANGUAGES: Binary XML JSON Bash INI Batchfile "Git Config" Other "GitIgnore file" textmate
            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
