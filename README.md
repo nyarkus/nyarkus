@@ -14,10 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 30 hrs 18 mins
+Total Time: 33 hrs 57 mins
 
-C#               24 hrs 30 mins  ███████████████████▒░░░░░   77.23 %
-XAML             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+C#               27 hrs 53 mins  ███████████████████▓░░░░░   78.83 %
+Rust             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
