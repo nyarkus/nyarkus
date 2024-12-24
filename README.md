@@ -14,10 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 33 hrs 57 mins
+Total Time: 41 hrs 17 mins
 
-C#               27 hrs 53 mins  ███████████████████▓░░░░░   78.83 %
-Rust             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+C#               35 hrs 10 mins  ████████████████████▓░░░░   82.34 %
+Rust             15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
