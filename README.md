@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 51 hrs 43 mins
+Total Time: 53 hrs 31 mins
 
-C#                28 hrs 34 mins  █████████████▒░░░░░░░░░░░   53.96 %
-GDScript3         5 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-Lua               5 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Text              15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+C#                28 hrs 3 mins   ████████████▓░░░░░░░░░░░░   51.26 %
+GDScript3         8 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+Lua               5 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+Text              15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
