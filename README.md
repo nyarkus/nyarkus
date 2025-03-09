@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at [Eternal Beta](https://github.com/Kacianoki/Eternal-Beta)
 <!--- 💬 Ask me about **nothing :<**-->
-- 🌱 I’m currently learning **F# and ASP.NET**
+- 🌱 I'm currently studying the **Godot Engine**
 
 <!--START_SECTION:waka-->
 
