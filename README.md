@@ -14,10 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 41 hrs 12 mins
+Total Time: 41 hrs 32 mins
 
-C#                24 hrs 33 mins  ██████████████▓░░░░░░░░░░   59.14 %
-GDScript3         11 hrs 22 mins  ███████░░░░░░░░░░░░░░░░░░   27.39 %
+C#                24 hrs 53 mins  ███████████████░░░░░░░░░░   59.47 %
+GDScript3         11 hrs 22 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
 Python            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
