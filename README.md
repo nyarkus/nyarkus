@@ -14,10 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 8 hrs 59 mins
+Total Time: 3 hrs 21 mins
 
-C#       7 hrs 49 mins   █████████████████████▓░░░   86.99 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+C#       3 hrs 10 mins   ███████████████████████▓░   94.54 %
 ```
 
 <!--END_SECTION:waka-->
