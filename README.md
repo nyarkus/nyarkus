@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 20 mins
+Total Time: 0 secs
 
-C#   20 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
