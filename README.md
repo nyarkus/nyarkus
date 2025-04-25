@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 0 secs
+Total Time: 16 mins
 
-No activity tracked
+Python   16 mins         ████████████████████████▓   99.27 %
 ```
 
 <!--END_SECTION:waka-->
