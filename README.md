@@ -14,9 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 16 mins
+Total Time: 2 hrs 23 mins
 
-Python   16 mins         ████████████████████████▓   99.27 %
+Lua      2 hrs 1 min     ███████████████████▓░░░░░   79.28 %
+Python   21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
