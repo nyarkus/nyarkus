@@ -13,7 +13,7 @@ jobs:
       - name: Update Wakatime
         uses: athul/waka-readme@v0.3.0
         with:
-           IGNORED_LANGUAGES: Binary XML JSON Bash INI Batchfile "Git Config" Other "GitIgnore file" textmate
+           IGNORED_LANGUAGES: Binary XML JSON Bash INI Batchfile "Git Config" Other "GitIgnore file" textmate Text Markdown
            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
            TIME_RANGE: last_30_days
            CODE_LANG: fs
