@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 68 hrs 44 mins
+Total Time: 72 hrs 16 mins
 
-C#                                 40 hrs 25 mins  ██████████████▓░░░░░░░░░░   58.45 %
-Lua                                9 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-YAML                               2 hrs 50 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+C#                                 43 hrs 23 mins  ███████████████░░░░░░░░░░   59.70 %
+Lua                                9 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+YAML                               2 hrs 50 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 ```
 
 <!--END_SECTION:waka-->
