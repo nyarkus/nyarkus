@@ -15,7 +15,7 @@ jobs:
         with:
            IGNORED_LANGUAGES: Binary XML JSON Bash INI Batchfile "Git Config" Other "GitIgnore file" textmate Text
            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-           TIME_RANGE: last_7_days
+           TIME_RANGE: last_30_days
            CODE_LANG: fs
            #SHOW_TITLE: true
            LANG_COUNT: 5
