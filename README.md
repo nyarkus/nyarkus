@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 100 hrs 11 mins
+Total Time: 91 hrs 13 mins
 
-C#                                 62 hrs 14 mins  ███████████████▒░░░░░░░░░   61.79 %
-Rust                               8 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-Lua                                6 hrs 48 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Markdown                           5 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-YAML                               2 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+C#                                 58 hrs 41 mins  ████████████████░░░░░░░░░   63.97 %
+Rust                               8 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+Markdown                           5 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+YAML                               3 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Python                             2 hrs 44 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
