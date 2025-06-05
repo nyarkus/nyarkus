@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 62 hrs 59 mins
+Total Time: 61 hrs 21 mins
 
-C#                                 36 hrs 7 mins   ██████████████▒░░░░░░░░░░   56.95 %
-Rust                               8 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-Markdown                           4 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-YAML                               3 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+C#                                 36 hrs 7 mins   ██████████████▓░░░░░░░░░░   58.45 %
+Rust                               8 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+Markdown                           4 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+YAML                               2 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
