@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 44 hrs 48 mins
+Total Time: 41 hrs 15 mins
 
-C#                                 29 hrs 8 mins   ████████████████░░░░░░░░░   64.63 %
-Rust                               8 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
-Protocol Buffer                    1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-TOML                               28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+C#                26 hrs 9 mins   ███████████████▓░░░░░░░░░   62.96 %
+Rust              8 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+Protocol Buffer   1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+TOML              28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
