@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 5 hrs 42 mins
+Total Time: 4 hrs 47 mins
 
-C#                4 hrs 6 mins    ██████████████████░░░░░░░   71.66 %
-Protocol Buffer   37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-YAML              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-TOML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+C#                3 hrs 53 mins   ████████████████████▒░░░░   81.00 %
+Protocol Buffer   40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+YAML              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+TOML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
