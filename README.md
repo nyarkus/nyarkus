@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 76 hrs 6 mins
+Total Time: 80 hrs 11 mins
 
-C#               40 hrs 57 mins  █████████████▒░░░░░░░░░░░   53.70 %
-HTML             8 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
-Markdown         6 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-Rust             5 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-CSHTML           3 hrs 56 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+C#               47 hrs 11 mins  ██████████████▓░░░░░░░░░░   58.67 %
+HTML             8 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+Markdown         6 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+CSHTML           3 hrs 56 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+CSS              3 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
 ```
 
 <!--END_SECTION:waka-->
