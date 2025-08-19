@@ -7,7 +7,7 @@
   <img src = "https://github.com/nyarkus/nyarkus/blob/output/github-snake-dark.svg">
 </p>
 
-- 🔭 I’m currently working at [Eternal Beta](https://github.com/Kacianoki/Eternal-Beta)
+<!--- - 🔭 I’m currently working at [Eternal Beta](https://github.com/Kacianoki/Eternal-Beta) -->
 <!--- 💬 Ask me about **nothing :<**-->
 - 🌱 I'm currently studying the **Godot Engine**
 
