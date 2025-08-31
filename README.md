@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 75 hrs 38 mins
+Total Time: 76 hrs 7 mins
 
-C#               57 hrs 22 mins  ███████████████████░░░░░░   75.37 %
-HTML             8 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-Markdown         3 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-CSS              3 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-JavaScript       54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+C#               62 hrs 23 mins  ████████████████████▒░░░░   81.41 %
+HTML             8 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+CSS              3 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Godot Resource   43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+GDScript3        41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
