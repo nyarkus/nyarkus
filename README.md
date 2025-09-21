@@ -14,12 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 33 hrs 15 mins
+Total Time: 28 hrs 5 mins
 
-C#               32 hrs 11 mins  ████████████████████████░   95.85 %
-Godot Resource   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Python           10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Markdown         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+C#               26 hrs 35 mins  ███████████████████████▒░   93.61 %
+Godot Resource   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Python           10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
