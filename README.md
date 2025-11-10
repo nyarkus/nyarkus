@@ -14,13 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 23 hrs 54 mins
+Total Time: 23 hrs 42 mins
 
-C#                     23 hrs 22 mins  ████████████████████████▒   97.81 %
+C#                     23 hrs 11 mins  ████████████████████████▒   97.38 %
 HTML                   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-GitIgnore file         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+GitIgnore file         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 XAML                   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Markdown               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
