@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 19 hrs 43 mins
+Total Time: 23 hrs 20 mins
 
-C#                  18 hrs 24 mins  ███████████████████████▒░   92.88 %
-Tscn file           38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-GDScript            6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-XAML                5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+C#                  21 hrs 59 mins  ███████████████████████▒░   93.84 %
+Tscn file           38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+GDScript            6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+XAML                5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
