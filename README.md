@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 38 hrs 19 mins
+Total Time: 39 hrs 56 mins
 
-Lua                 19 hrs 52 mins  █████████████░░░░░░░░░░░░   51.74 %
-C#                  17 hrs 19 mins  ███████████▒░░░░░░░░░░░░░   45.09 %
-Tscn file           38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-GDScript            6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-GodotProject file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Lua                 21 hrs 30 mins  █████████████▒░░░░░░░░░░░   53.83 %
+C#                  17 hrs 19 mins  ███████████░░░░░░░░░░░░░░   43.37 %
+Tscn file           38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+GDScript            6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+GodotProject file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
