@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 62 hrs 22 mins
+Total Time: 62 hrs 27 mins
 
-Lua              29 hrs 7 mins   ███████████▓░░░░░░░░░░░░░   46.67 %
-C#               26 hrs 39 mins  ██████████▓░░░░░░░░░░░░░░   42.72 %
+Lua              29 hrs 7 mins   ███████████▓░░░░░░░░░░░░░   46.61 %
+C#               26 hrs 43 mins  ██████████▓░░░░░░░░░░░░░░   42.77 %
 HTML             4 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
 CSS              1 hr 4 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Markdown         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Tscn file        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
