@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 9 hrs 45 mins
+Total Time: 8 hrs 46 mins
 
-C#                     6 hrs 41 mins   █████████████████░░░░░░░░   68.66 %
-Astro                  1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-C++                    18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-GitIgnore file         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+C#                     6 hrs 41 mins   ███████████████████░░░░░░   76.34 %
+C++                    18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Astro                  16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+GitIgnore file         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
