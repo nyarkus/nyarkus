@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 6 hrs 47 mins
+Total Time: 5 hrs 30 mins
 
-C#                     5 hrs 43 mins   █████████████████████░░░░   84.20 %
-GitIgnore file         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-YAML                   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Csproj                 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+C#               4 hrs 30 mins   ████████████████████▒░░░░   81.76 %
+GitIgnore file   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+YAML             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Csproj           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
