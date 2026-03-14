@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 15 hrs 26 mins
+Total Time: 21 hrs 11 mins
 
-C#                  13 hrs 26 mins  █████████████████████▓░░░   87.08 %
-YAML                52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-GodotProject file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+C#                  19 hrs 8 mins   ██████████████████████▓░░   90.30 %
+YAML                52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+GodotProject file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
