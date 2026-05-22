@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 2 hrs 58 mins
+Total Time: 3 mins
 
-C#   2 hrs 58 mins   █████████████████████████   100.00 %
+C#   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
