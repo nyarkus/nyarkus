@@ -14,9 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 2 mins
+Total Time: 2 hrs 50 mins
 
-C#   2 mins          █████████████████████████   100.00 %
+C#          2 hrs 49 mins   █████████████████████████   99.68 %
+Tscn file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
