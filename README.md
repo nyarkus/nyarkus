@@ -14,12 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 17 hrs 25 mins
+Total Time: 21 hrs 11 mins
 
-C#                  15 hrs 8 mins   █████████████████████▓░░░   86.38 %
-Markdown            43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Csproj              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-YAML                12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+C#                  16 hrs 39 mins  ███████████████████▓░░░░░   78.51 %
+Markdown            2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Csproj              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
