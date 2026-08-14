@@ -14,11 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 2 hrs 22 mins
+Total Time: 1 hr
 
-C#                  1 hr 16 mins    █████████████▒░░░░░░░░░░░   53.24 %
-Markdown            55 mins         █████████▓░░░░░░░░░░░░░░░   39.12 %
-Csproj              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+C#                  31 mins         █████████████░░░░░░░░░░░░   51.52 %
+Markdown            27 mins         ███████████▒░░░░░░░░░░░░░   45.66 %
+Csproj              1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+GodotProject file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
