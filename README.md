@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 3 hrs 51 mins
+Total Time: 3 hrs 38 mins
 
-C#                  3 hrs 16 mins   █████████████████████▒░░░   84.78 %
-Markdown            25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-Tres file           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Csproj              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-GDScript            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+C#                  3 hrs 11 mins   ██████████████████████░░░   87.58 %
+Markdown            17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+Tres file           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Csproj              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+GDScript            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
