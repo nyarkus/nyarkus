@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 3 hrs 38 mins
+Total Time: 5 hrs 26 mins
 
-C#                  3 hrs 11 mins   ██████████████████████░░░   87.58 %
-Markdown            17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-Tres file           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Csproj              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-GDScript            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+C#                                 3 hrs 38 mins   ████████████████▓░░░░░░░░   67.02 %
+Python                             33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+CSS                                24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Microsoft Visual Studio Solution   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Markdown                           10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
