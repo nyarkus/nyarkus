@@ -14,13 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 5 hrs 17 mins
+Total Time: 7 hrs 28 mins
 
-C#                                 3 hrs 37 mins   █████████████████░░░░░░░░   68.54 %
-Python                             33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-CSS                                24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Microsoft Visual Studio Solution   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Markdown                           10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+C#                                 5 hrs 25 mins   ██████████████████░░░░░░░   72.49 %
+Python                             33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+CSS                                24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Csproj                             11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
