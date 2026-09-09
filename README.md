@@ -14,12 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 6 hrs 39 mins
+Total Time: 6 hrs 7 mins
 
-C#                                 5 hrs 37 mins   █████████████████████░░░░   84.58 %
-Microsoft Visual Studio Solution   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-Csproj                             10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Tres file                          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+C#               5 hrs 20 mins   █████████████████████▓░░░   87.20 %
+Csproj           10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Tres file        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
