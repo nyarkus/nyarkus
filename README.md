@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 6 hrs 7 mins
+Total Time: 5 hrs 53 mins
 
-C#               5 hrs 20 mins   █████████████████████▓░░░   87.20 %
-Csproj           10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Tres file        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+C#               5 hrs 6 mins    █████████████████████▓░░░   86.67 %
+Csproj           10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Tres file        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
