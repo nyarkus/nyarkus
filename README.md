@@ -14,10 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 43 mins
+Total Time: 40 mins
 
-C#         24 mins         ██████████████▒░░░░░░░░░░   57.46 %
-Markdown   6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
+C#         24 mins         ███████████████▓░░░░░░░░░   62.10 %
+Markdown   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
 ```
 
 <!--END_SECTION:waka-->
