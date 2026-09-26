@@ -14,10 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 40 mins
+Total Time: 0 secs
 
-C#         24 mins         ███████████████▓░░░░░░░░░   62.10 %
-Markdown   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
