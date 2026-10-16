@@ -14,10 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 13 mins
+Total Time: 49 mins
 
-C#               13 mins         █████████████████████████   99.95 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+ObjectPascal     19 mins         ██████████░░░░░░░░░░░░░░░   39.87 %
+TypeScript       16 mins         ████████▒░░░░░░░░░░░░░░░░   32.98 %
+C#               13 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
