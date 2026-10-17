@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 49 mins
+Total Time: 1 hr 18 mins
 
-ObjectPascal     19 mins         ██████████░░░░░░░░░░░░░░░   39.87 %
-TypeScript       16 mins         ████████▒░░░░░░░░░░░░░░░░   32.98 %
-C#               13 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
+ObjectPascal     48 mins         ███████████████▓░░░░░░░░░   62.15 %
+TypeScript       16 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
+C#               13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
