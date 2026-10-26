@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 3 hrs 18 mins
+Total Time: 7 hrs 8 mins
 
-C#                  2 hrs 3 mins    ███████████████▓░░░░░░░░░   62.33 %
-ObjectPascal        48 mins         ██████░░░░░░░░░░░░░░░░░░░   24.43 %
-TypeScript          16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-Tscn file           9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-GodotProject file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+C#                  5 hrs 19 mins   ██████████████████▓░░░░░░   74.68 %
+ObjectPascal        48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+Tscn file           27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+TypeScript          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+GDScript3           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
