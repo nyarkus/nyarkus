@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 10 hrs 43 mins
+Total Time: 17 hrs 21 mins
 
-C#                  8 hrs 55 mins   ████████████████████▓░░░░   83.17 %
-ObjectPascal        48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-Tscn file           27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-TypeScript          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-GDScript3           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+C#                  15 hrs 18 mins  ██████████████████████░░░   88.20 %
+ObjectPascal        48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Tscn file           39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+TypeScript          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+GDScript3           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
