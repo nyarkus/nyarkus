@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```fs
-Total Time: 27 hrs 29 mins
+Total Time: 25 hrs 28 mins
 
-C#                  25 hrs 16 mins  ███████████████████████░░   91.92 %
-Tscn file           47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-Markdown            17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Git Config          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Python              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+C#                  23 hrs 25 mins  ███████████████████████░░   91.95 %
+Tscn file           38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Markdown            17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Git Config          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Python              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
